@@ -1,2 +1,2 @@
 print("Hello world")
-next("sf")
+next("sfsdfsdfsdfsdfsdfsdfsdfsdfsdf")
